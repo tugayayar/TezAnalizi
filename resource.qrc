@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="resimler">
+    <file>icons/2613204-200.png</file>
+    <file>icons/iconx.ico</file>
+    <file>icons/education-2.jpg</file>
+  </qresource>
+</RCC>

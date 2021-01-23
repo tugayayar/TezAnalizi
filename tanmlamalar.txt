@@ -1,0 +1,11 @@
+1-Başlıktaki Her Kelimenin Baş Harfi Büyük Değil
+2-Şekiller Listesindeki Şekil Tanımlaması Numarası İle Uyuşmuyor
+3-Tablolar Listesindeki Tablo Tanımlaması Numarası İle Uyuşmuyor
+4-Denklemler Listesindeki Denklem Tanımalaması Numarası İle Uyuşmuyor
+5-Çizelgeler Listesindeki Çizelge Tanımalaması Numarası İle Uyuşmuyor
+6-Referanslarda Tanımalanan Referans Tez İçerisinde Kullanılmamış
+7-Giriş Sayfasının İlk Paragrafında Teşekkür İbaresi Yer Alıyor
+8-İki Adet Çift Tırnak Arasında 50 Kelimeden Fazla Kelime Kullanılmış
+9-Paragraf İki Satır ve/veya İki Satırdan Daha Az Satırdan Oluşuyor
+10-İçindekiler Kısmındaki Sayfa Numaraları Doğru Değil
+11-Tez İçerisinde Herhangi Bir Sorunla Karşılaşılmamıştır.
