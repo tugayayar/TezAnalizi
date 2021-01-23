@@ -53,7 +53,7 @@ class MainWindow(QMainWindow):
 
     def self_setup_ui(self):
         self.ui.txt_dosya_yolu.setEnabled(False)
-        self.ui.txt_no_giris.setValidator(QDoubleValidator())
+        """self.ui.txt_no_giris.setValidator(QDoubleValidator())
         self.ui.txt_no_sekiller.setValidator(QDoubleValidator())
         self.ui.txt_no_baslik.setValidator(QDoubleValidator())
         self.ui.txt_no_cizelge.setValidator(QDoubleValidator())
@@ -61,7 +61,7 @@ class MainWindow(QMainWindow):
         self.ui.txt_no_baslangic.setValidator(QDoubleValidator())
         self.ui.txt_no_denklemler.setValidator(QDoubleValidator())
         self.ui.txt_no_icindekiler.setValidator(QDoubleValidator())
-        self.ui.txt_no_referans.setValidator(QDoubleValidator())
+        self.ui.txt_no_referans.setValidator(QDoubleValidator())"""
 
     def test(self):
         self.ui.txt_no_giris.setText("12,13,14")
